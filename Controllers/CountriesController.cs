@@ -155,7 +155,6 @@ namespace BD_Assignment.Controllers
             }
             else
             {
-                // This shouldn't happen if checks above are correct, but good practice
                 return Conflict("Failed to add temporal block. Please try again.");
             }
         }

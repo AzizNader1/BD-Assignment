@@ -26,12 +26,8 @@ namespace BD_Assignment.Controllers
             {
                 ipAddress = HttpContext.Connection.RemoteIpAddress?.ToString();
                 // Note: This might return "::1" for localhost. You might want to handle this differently for testing.
-                // For external requests, it should return the client's IP.
                 if (string.IsNullOrWhiteSpace(ipAddress) || ipAddress == "::1" || ipAddress == "127.0.0.1")
                 {
-                    // For local testing, you might want to use a known IP like 8.8.8.8
-                    // For production, ensure your server is not behind a proxy that masks the real IP without proper handling.
-                    // Consider using IHttpContextAccessor if needed for more complex scenarios.
                     ipAddress = "8.8.8.8"; // Example fallback for local testing ONLY
                 }
             }
@@ -59,7 +55,6 @@ namespace BD_Assignment.Controllers
             var callerIpAddress = HttpContext.Connection.RemoteIpAddress?.ToString();
             if (string.IsNullOrWhiteSpace(callerIpAddress) || callerIpAddress == "::1" || callerIpAddress == "127.0.0.1")
             {
-                // Same note as above regarding local addresses.
                 callerIpAddress = "8.8.8.8"; // Fallback for local testing ONLY
             }
 

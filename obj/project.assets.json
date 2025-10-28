@@ -1194,11 +1194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\BD-Assignment.csproj",
+      "projectUniqueName": "P:\\My Projects\\BD-Assignment\\BD-Assignment.csproj",
       "projectName": "BD-Assignment",
-      "projectPath": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\BD-Assignment.csproj",
+      "projectPath": "P:\\My Projects\\BD-Assignment\\BD-Assignment.csproj",
       "packagesPath": "C:\\Users\\ZeeZo\\.nuget\\packages\\",
-      "outputPath": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\obj\\",
+      "outputPath": "P:\\My Projects\\BD-Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

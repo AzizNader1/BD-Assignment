@@ -5,7 +5,8 @@ using System.Collections.Concurrent;
 namespace BD_Assignment.Services
 {
     public class InMemoryStorage
-    { // Store permanently blocked countries (Key: CountryCode)
+    { 
+        // Store permanently blocked countries (Key: CountryCode)
         public ConcurrentDictionary<string, string> BlockedCountries { get; } = new();
 
         // Store temporarily blocked countries with expiry time (Key: CountryCode)

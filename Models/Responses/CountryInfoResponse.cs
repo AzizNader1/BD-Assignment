@@ -6,8 +6,8 @@
         public string CountryCode { get; set; } = string.Empty;
         public string CountryName { get; set; } = string.Empty;
         public string Isp { get; set; } = string.Empty;
-        public string? StateProv { get; set; }
-        public string? City { get; set; }
+        public string? StateProv { get; set; } = string.Empty;
+        public string? City { get; set; } = string.Empty;
         public double? Latitude { get; set; }
         public double? Longitude { get; set; }
     }

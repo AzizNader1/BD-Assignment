@@ -40,14 +40,13 @@ namespace BD_Assignment.Services
                         return new CountryInfoResponse
                         {
                             Ip = data.Ip ?? ipAddress,
-                            CountryCode = data.CountryCode2 ?? string.Empty, // Use the correct property name from IPGeolocation.io
-                            CountryName = data.CountryName ?? string.Empty, // Use the correct property name
-                            Isp = data.Isp ?? string.Empty,                 // Use the correct property name
+                            CountryCode = data.CountryCode2 ?? string.Empty, 
+                            CountryName = data.CountryName ?? string.Empty, 
+                            Isp = data.Isp ?? string.Empty,                 
                             StateProv = data.StateProv,
                             City = data.City,
                             Latitude = data.Latitude,
                             Longitude = data.Longitude
-                            // Map other fields as needed based on IPGeolocation.io's response structure
                         };
                     }
                 }

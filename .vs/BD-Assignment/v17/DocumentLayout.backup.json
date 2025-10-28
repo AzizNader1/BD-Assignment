@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\",
+  "WorkspaceRootPath": "P:\\My Projects\\BD-Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\bd-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:bd-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\services\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\models\\internal\\temporalblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\models\\internal\\temporalblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\internal\\temporalblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\models\\responses\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\responses\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\models\\responses\\countryinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\responses\\countryinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\models\\requests\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\requests\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\models\\requests\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\models\\requests\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\requests\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\models\\requests\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\requests\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\models\\responses\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\responses\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\models\\responses\\countryinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:models\\responses\\countryinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\services\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\bd-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:bd-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|p:\\my projects\\bd-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B1CFAF33-A0E5-4024-8891-BEF9FD86E269}|BD-Assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -70,106 +70,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:04:00.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogsController.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\LogsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\LogsController.cs",
-              "RelativeToolTip": "Controllers\\LogsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:03:48.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IpController.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\IpController.cs",
-              "RelativeDocumentMoniker": "Controllers\\IpController.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\IpController.cs",
-              "RelativeToolTip": "Controllers\\IpController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:03:04.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAowKEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:02:02.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeolocationService.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\GeolocationService.cs",
-              "RelativeDocumentMoniker": "Services\\GeolocationService.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\GeolocationService.cs",
-              "RelativeToolTip": "Services\\GeolocationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:00:02.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BD-Assignment",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\BD-Assignment.csproj",
-              "RelativeDocumentMoniker": "BD-Assignment.csproj",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\BD-Assignment.csproj",
-              "RelativeToolTip": "BD-Assignment.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-28T13:54:31.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "TemporalBlockCleanupService.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\TemporalBlockCleanupService.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Services\\TemporalBlockCleanupService.cs",
               "RelativeDocumentMoniker": "Services\\TemporalBlockCleanupService.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\TemporalBlockCleanupService.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Services\\TemporalBlockCleanupService.cs",
               "RelativeToolTip": "Services\\TemporalBlockCleanupService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA+wCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T14:01:02.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemporalBlock.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Models\\Internal\\TemporalBlock.cs",
+              "RelativeDocumentMoniker": "Models\\Internal\\TemporalBlock.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Models\\Internal\\TemporalBlock.cs",
+              "RelativeToolTip": "Models\\Internal\\TemporalBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:58:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockCountryRequest.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Models\\Requests\\BlockCountryRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Requests\\BlockCountryRequest.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Models\\Requests\\BlockCountryRequest.cs",
+              "RelativeToolTip": "Models\\Requests\\BlockCountryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:56:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemporalBlockRequest.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Models\\Requests\\TemporalBlockRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Requests\\TemporalBlockRequest.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Models\\Requests\\TemporalBlockRequest.cs",
+              "RelativeToolTip": "Models\\Requests\\TemporalBlockRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:56:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockedAttemptLog.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Models\\Responses\\BlockedAttemptLog.cs",
+              "RelativeDocumentMoniker": "Models\\Responses\\BlockedAttemptLog.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Models\\Responses\\BlockedAttemptLog.cs",
+              "RelativeToolTip": "Models\\Responses\\BlockedAttemptLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:58:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryInfoResponse.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Models\\Responses\\CountryInfoResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Responses\\CountryInfoResponse.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Models\\Responses\\CountryInfoResponse.cs",
+              "RelativeToolTip": "Models\\Responses\\CountryInfoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:57:44.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryStorage.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Services\\InMemoryStorage.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryStorage.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Services\\InMemoryStorage.cs",
+              "RelativeToolTip": "Services\\InMemoryStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:59:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IGeolocationService.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\IGeolocationService.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Services\\IGeolocationService.cs",
               "RelativeDocumentMoniker": "Services\\IGeolocationService.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\IGeolocationService.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Services\\IGeolocationService.cs",
               "RelativeToolTip": "Services\\IGeolocationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,93 +179,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "InMemoryStorage.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\InMemoryStorage.cs",
-              "RelativeDocumentMoniker": "Services\\InMemoryStorage.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Services\\InMemoryStorage.cs",
-              "RelativeToolTip": "Services\\InMemoryStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:59:05.651Z",
+              "WhenOpened": "2025-10-28T14:03:48.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TemporalBlock.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Internal\\TemporalBlock.cs",
-              "RelativeDocumentMoniker": "Models\\Internal\\TemporalBlock.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Internal\\TemporalBlock.cs",
-              "RelativeToolTip": "Models\\Internal\\TemporalBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IpController.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Controllers\\IpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IpController.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Controllers\\IpController.cs",
+              "RelativeToolTip": "Controllers\\IpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:58:34.105Z",
+              "WhenOpened": "2025-10-28T14:03:04.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BlockedAttemptLog.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Responses\\BlockedAttemptLog.cs",
-              "RelativeDocumentMoniker": "Models\\Responses\\BlockedAttemptLog.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Responses\\BlockedAttemptLog.cs",
-              "RelativeToolTip": "Models\\Responses\\BlockedAttemptLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:58:11.388Z",
+              "WhenOpened": "2025-10-28T14:02:02.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CountryInfoResponse.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Responses\\CountryInfoResponse.cs",
-              "RelativeDocumentMoniker": "Models\\Responses\\CountryInfoResponse.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Responses\\CountryInfoResponse.cs",
-              "RelativeToolTip": "Models\\Responses\\CountryInfoResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Title": "GeolocationService.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Services\\GeolocationService.cs",
+              "RelativeDocumentMoniker": "Services\\GeolocationService.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Services\\GeolocationService.cs",
+              "RelativeToolTip": "Services\\GeolocationService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:57:44.147Z",
+              "WhenOpened": "2025-10-28T14:00:02.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TemporalBlockRequest.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Requests\\TemporalBlockRequest.cs",
-              "RelativeDocumentMoniker": "Models\\Requests\\TemporalBlockRequest.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Requests\\TemporalBlockRequest.cs",
-              "RelativeToolTip": "Models\\Requests\\TemporalBlockRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:56:57.64Z",
+              "Title": "BD-Assignment.csproj",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment.csproj",
+              "RelativeDocumentMoniker": "BD-Assignment.csproj",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment.csproj",
+              "RelativeToolTip": "BD-Assignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T13:54:31.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "BlockCountryRequest.cs",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Requests\\BlockCountryRequest.cs",
-              "RelativeDocumentMoniker": "Models\\Requests\\BlockCountryRequest.cs",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\Models\\Requests\\BlockCountryRequest.cs",
-              "RelativeToolTip": "Models\\Requests\\BlockCountryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:56:46.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T14:04:00.012Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\appsettings.json",
+              "DocumentMoniker": "P:\\My Projects\\BD-Assignment\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "P:\\My Projects\\BD-Assignment\\BD-Assignment\\appsettings.json",
+              "ToolTip": "P:\\My Projects\\BD-Assignment\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-28T13:56:04.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T13:56:04.147Z"
             }
           ]
         }
